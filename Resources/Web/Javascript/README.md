@@ -15,8 +15,8 @@ There are tons of excellent guides out there to learn Javascript. We picked the 
 
 ## Frameworks
 
-1. [ReactJS]() - Frontend JS framework
-2. [NodeJS]() - NodeJS is a JS runtime built on Chrome's V8 JS engine. 
+1. [ReactJS](https://gitlab.com/fidenzacademy/knowledge-base-internal/blob/master/Resources/Web/Javascript/REACTJS.md) - Frontend JS framework
+2. [NodeJS](https://gitlab.com/fidenzacademy/knowledge-base-internal/blob/master/Resources/Web/Javascript/NODEJS.md) - NodeJS is a JS runtime built on Chrome's V8 JS engine.
 
 ## Libraries
 
