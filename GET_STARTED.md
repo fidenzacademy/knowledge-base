@@ -5,9 +5,8 @@ We understand that you are quite eagerly waiting to start with your training and
 ## General
 
  1. Read the [Contributing Guide](CONTRIBUTING.md).
- 2. Developers most powerful tool is VCS. Master the basics From [GIT 101](General/GIT.md).
- 3. When you come across any errors, issues. Try to Google them yourself first before consulting a senior developer. Go through [How To Google](General/HOW_TO_GOOGLE.md) guide to learn how to properly use Google search.
- 4. Fidenz Academy Knowledge Base contains official documentations, guides, tutorials as learning material. This is because 3rd party guides, video tutorials might get outdated and we cannot always update them. If you were to follow any 3rd party tutorials that are outside of this knowledge base always make sure that they contain valid and up-to-date content.
+ 2. When you come across any errors, issues. Try to Google them yourself first before consulting a senior developer. Go through [How To Google](General/HOW_TO_GOOGLE.md) guide to learn how to properly use Google search.
+ 3. Fidenz Academy Knowledge Base contains official documentations, guides, tutorials as learning material. This is because 3rd party guides, video tutorials might get outdated and we cannot always update them. If you were to follow any 3rd party tutorials that are outside of this knowledge base always make sure that they contain valid and up-to-date content.
 
 ## Going through the training program
 
