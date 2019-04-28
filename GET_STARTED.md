@@ -4,11 +4,12 @@ We understand that you are quite eagerly waiting to start with your training and
 
 ## General
 
- 1. Read the [Contributing Guide](CONTRIBUTING.md).
- 2. When you come across any errors, issues. Try to Google them yourself first before consulting a senior developer. Go through [How To Google](General/HOW_TO_GOOGLE.md) guide to learn how to properly use Google search.
- 3. Fidenz Academy Knowledge Base contains official documentations, guides, tutorials as learning material. This is because 3rd party guides, video tutorials might get outdated and we cannot always update them. If you were to follow any 3rd party tutorials that are outside of this knowledge base always make sure that they contain valid and up-to-date content.
+1. When you come across any errors, issues. Try to Google them yourself first before consulting a senior developer. Go through [How To Google](General/HOW_TO_GOOGLE.md) guide to learn how to properly use Google search.
+2. If you find any errors in the program or would like to contribute to the resource go ahead and read the [Contributing Guide](CONTRIBUTING.md).
 
 ## Going through the training program
+
+Fidenz Academy Knowledge Base contains official documentations, guides, tutorials as learning resources. This is because 3rd party guides, video tutorials might get outdated. You might put hours into learning something without realizing that it has been outdated until its too late. If you were to follow any 3rd party tutorials that are outside of this knowledge base always make sure that they contain valid and up-to-date content.
 
 You will be given a set of technologies to start in the training program by Fidenz. Make sure to stick to the program and go through given tutorials/guides.
 
@@ -28,3 +29,9 @@ This contains optional guides, tutorials materials that will help you to gain mo
 ### Examples
 
 Holds examples for you to test out and see how everything connects. Study examples very closely as they will answer most of your common questions.
+
+## Submitting assignments
+
+Through the course of your training program you will be given few assignments. An assignment will content a problem and a git repository for you to submit your answer.
+
+When submitting an assignment make sure to use a separate branch other than the `master` and create a PR/MR (pull request / merge request) of your branch then set `master` as the base branch.
