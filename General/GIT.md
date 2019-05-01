@@ -23,6 +23,8 @@ It is important to understand that following Git Flow doesn't have anything to d
 
 Under the hood that tool just create, delete, etc branches for us with few different commands. You don't even need to install and use `git-flow` tool to use Git Flow.
 
+Make sure to describe a commit message well on what it contains. [Bad Commit Messages Hall of Shame](https://www.codelord.net/2015/03/16/bad-commit-messages-hall-of-shame/)
+
 Since now you have mastered the ways of ~~Jedi~~ Git. Feel free to use any Git client you like or stick with CLI.
 
 ### Resources
