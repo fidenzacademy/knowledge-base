@@ -32,6 +32,6 @@ Holds examples for you to test out and see how everything connects. Study exampl
 
 ## Submitting assignments
 
-Through the course of your training program you will be given few assignments. An assignment will content a problem and a git repository for you to submit your answer.
+Through the course of your training program you will be given few assignments. An assignment will content a problem and a git repository for you to submit your answer. We have a good [Git Guide](General/GIT.md) for you!
 
 When submitting an assignment make sure to use a separate branch other than the `master` and create a PR/MR (pull request / merge request) of your branch then set `master` as the base branch.
