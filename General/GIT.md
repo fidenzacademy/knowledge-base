@@ -35,3 +35,4 @@ Since now you have mastered the ways of ~~Jedi~~ Git. Feel free to use any Git c
 1. [Git Reference Docs](https://git-scm.com/docs) - Git official reference docs
 2. [Pro Git Book](https://git-scm.com/book/) - A free online book will teach you everything you need to know about!
 3. [Try Git with Github](https://try.github.io/) - A set of guides from Github
+4. [Git Immersion](http://gitimmersion.com/) - A guided tour that walks through the fundamentals of Git
