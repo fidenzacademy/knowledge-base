@@ -1,9 +1,9 @@
 # GIT 101
 
 > "I find your lack of knowledge in Git disturbing."
-> Darth Vader, 1980
+> -Darth Vader, 1980
 
-The above takes place when Lord Vader found out his colleague Motti (junior developer) didn't know [what is a VCS](https://www.atlassian.com/git/tutorials/what-is-version-control) and Lord Vader gave his a good lecture on [what is Git](https://www.atlassian.com/git/tutorials/what-is-git) (while force choking him).
+The above took place when Lord Vader found out his colleague Motti (junior developer) didn't know [what is a VCS](https://www.atlassian.com/git/tutorials/what-is-version-control) and followed by a lecture about [what is Git](https://www.atlassian.com/git/tutorials/what-is-git) (while force choking him).
 
 Git is the most important tool in a developer's arsenal. It is important to get it right at the very beginning of your journey as a developer!
 
