@@ -8,3 +8,7 @@ Go through [Web Development In 2019 - A Practical Guide](https://www.youtube.com
 
 * [HTML & CSS](HTML_CSS.md)
 * [Javascript](Javascript/README.md)
+
+## Tools
+
+* [Browser Dev Tools](DEV_TOOLS.md)
