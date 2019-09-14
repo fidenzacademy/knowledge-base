@@ -25,3 +25,4 @@ Here is the main curriculum you should follow:
 ## Optional Resources
 
 1. [FreeCodeCamp](https://learn.freecodecamp.org/) - FreeCodeCamp is a great resource when it comes to learning and gaining practical experience at the same time.
+2. [Frontend Workshop by Microsoft](https://github.com/Microsoft/frontend-bootcamp) - A great workshop by Microsoft that focuses on frontend technologies including ReactJS and Redux. Great starting point if you want to master frontend development! 
